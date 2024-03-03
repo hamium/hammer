@@ -13,9 +13,9 @@
 
 # Webhooks
 webhooks:
-  suggestions: "https://discord.com/api/webhooks/1211390362233348096/jlo0SxPPx9tpVjb5bV6H92Hp86ehTi4AEgLn9kEZZR6z3T2FT88T_VlY5uizm24sgsjo"
-  reports: "https://discord.com/api/webhooks/1211389659641552946/0lkWl20XHHGi9nho_Cv0M3qH_yy1znqXcP4yj6K_teBijlP9PBINdp7Tw-fKETGUpqOJ"
-  broadcasts: "https://discord.com/api/webhooks/1212405497102082110/RT0fkMightuwkv_eEFpG0W81rcbOMf6F1zCTefMUtDG6otr6IAZrGDzZdcrF6pCwsWvC"
+  suggestions: ""
+  reports: ""
+  broadcasts: ""
 
 # Homes (cooldown is in minutes)
 homes:
