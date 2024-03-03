@@ -1,0 +1,31 @@
+name: Hammer
+version: '${version}'
+main: org.hamium.hammer.Hammer
+api-version: '1.20'
+author: unium
+description: goofy plugin for mc.hamium.xyz
+commands:
+  hrestart:
+    description: restart!!!
+    usage: /hrestart
+  cancelrestart:
+    description: (cancel) restart!!!
+    usage: /cancelrestart
+  broadcast:
+    description: broadcasts a message
+    usage: /broadcast <message>
+  reloadhammer:
+    description: reload hammer config
+    usage: /reloadhammer
+  report:
+    description: reports a bitch ass mf
+    usage: /report <player> <reason>
+  suggest:
+    description: suggests shit
+    usage: /suggest <suggestion>
+  sethome:
+    description: sets home
+    usage: /sethome
+  home:
+    description: tp ppl to their home
+    usage: /home

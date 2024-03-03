@@ -1,0 +1,36 @@
+#   ___  ___  ________  _____ ______   _____ ______   _______   ________
+#   |\  \|\  \|\   __  \|\   _ \  _   \|\   _ \  _   \|\  ___ \ |\   __  \
+#   \ \  \\\  \ \  \|\  \ \  \\\__\ \  \ \  \\\__\ \  \ \   __/|\ \  \|\  \
+#   \ \   __  \ \   __  \ \  \\|__| \  \ \  \\|__| \  \ \  \_|/_\ \   _  _\
+#   \ \  \ \  \ \  \ \  \ \  \    \ \  \ \  \    \ \  \ \  \_|\ \ \  \\  \|
+#   \ \__\ \__\ \__\ \__\ \__\    \ \__\ \__\    \ \__\ \_______\ \__\\ _\
+#   \|__|\|__|\|__|\|__|\|__|     \|__|\|__|     \|__|\|_______|\|__|\|__|
+# Simple """all-in-one""" plugin for mc.hamium.xyz
+# Made by unium (im sorry)
+
+# Variables (VERY case sensitive)
+# {PLAYER} - Player name
+
+# Webhooks
+webhooks:
+  suggestions: "https://discord.com/api/webhooks/1211390362233348096/jlo0SxPPx9tpVjb5bV6H92Hp86ehTi4AEgLn9kEZZR6z3T2FT88T_VlY5uizm24sgsjo"
+  reports: "https://discord.com/api/webhooks/1211389659641552946/0lkWl20XHHGi9nho_Cv0M3qH_yy1znqXcP4yj6K_teBijlP9PBINdp7Tw-fKETGUpqOJ"
+  broadcasts: "https://discord.com/api/webhooks/1212405497102082110/RT0fkMightuwkv_eEFpG0W81rcbOMf6F1zCTefMUtDG6otr6IAZrGDzZdcrF6pCwsWvC"
+
+# Homes (cooldown is in minutes)
+homes:
+  tpcooldown: 5
+  setcooldown: 1440
+
+# Join/Leave messages
+joinleave:
+  joinmsg: "&7[&a&l+&r&7] &e{PLAYER}"
+  leavemsg: "&7[&c&l-&r&7] &e{PLAYER}"
+
+# H-Restart Settings
+hrestart:
+  1m: "§d§l፨ §nhamiumMC§r §5§l|§r§f Restarting in §c§l1 minute§r§f!"
+  3s: "§d§l፨ §nhamiumMC§r §5§l|§r§f Restarting in §c§l3 seconds§r§f!"
+  2s: "§d§l፨ §nhamiumMC§r §5§l|§r§f Restarting in §c§l2 seconds§r§f!"
+  1s: "§d§l፨ §nhamiumMC§r §5§l|§r§f Restarting in §c§l1 second§r§f!"
+  now: "§d§l፨ §nhamiumMC§r §5§l|§r§f Restarting..."
